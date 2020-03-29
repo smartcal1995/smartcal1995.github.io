@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>沧海居</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-29T04:13:44.702Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Leo Warren</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test1</title>
+    <link href="http://yoursite.com/2020/03/29/test1/"/>
+    <id>http://yoursite.com/2020/03/29/test1/</id>
+    <published>2020-03-29T04:13:44.000Z</published>
+    <updated>2020-03-29T04:13:44.702Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
